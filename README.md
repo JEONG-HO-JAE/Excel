@@ -1,3 +1,4 @@
 # Excel 
 ## Toy project | May - July 2021 
-## Java
+## Language : Java
+Implementation of data processing and key Excel functions
